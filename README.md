@@ -1,12 +1,12 @@
 # Libft_Updated
+<div>
+  21.12.2021
 
-21.12.2021
+  Current libft version: v.0.1
 
-Current libft version: v.0.1
+  Added to my library get_next_line 
 
-Added to my library get_next_line 
+  <br>
 
-< br >
-
-Made some additional changes to be more readdable the header file
-
+  Made some additional changes to be more readdable the header file
+</div>
