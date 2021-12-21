@@ -4,6 +4,9 @@
 
 Current libft version: v.0.1
 
-Added to my library get_next_line < br >
+Added to my library get_next_line 
+
+< br >
+
 Made some additional changes to be more readdable the header file
 
